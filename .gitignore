@@ -1,5 +1,8 @@
 # Ignore compiled python files
 *.pyc
 
+#Ignore idea
+.idea
+
 # Ignore full logs
 *.full
