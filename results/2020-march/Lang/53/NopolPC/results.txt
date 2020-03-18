@@ -1,0 +1,19 @@
+
+Nb classes : 77
+Nb methods : 1730
+Nb statements: 8418
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 1718
+Nb Statements Analyzed : 24
+Nb Statements with Angelic Value Found : 1
+Nb inputs in SMT : 61
+Nb SMT level: 3
+Nb SMT components: [7] [== of arity: 2, != of arity: 2, < of arity: 2, <= of arity: 2, ! of arity: 1, || of arity: 2, && of arity: 2]
+                  class java.lang.Boolean: 7
+Nb variables in SMT : 31
+Nb run failing test  : [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1]
+Nb run passing test : [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 10]
+NoPol Execution time : 126225ms
+----PATCH FOUND----
+org.apache.commons.lang.time.DateUtils:666: PRECONDITION (!((minutes <= seconds) && (round))) || (org.apache.commons.lang.time.DateUtils.RANGE_WEEK_MONDAY == minutes)

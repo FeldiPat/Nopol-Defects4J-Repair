@@ -1,0 +1,221 @@
+Project: Chart
+bug: 1 patch: no 
+bug: 2 patch: no 
+bug: 3 patch: no 
+bug: 4 patch: no 
+bug: 5 patch: no 
+bug: 6 patch: yes time 31s
+bug: 7 patch: no 
+bug: 8 patch: no 
+bug: 9 patch: no 
+bug: 10 patch: no 
+bug: 11 patch: no 
+bug: 12 patch: no 
+bug: 13 patch: yes time 33s
+bug: 14 patch: no 
+bug: 15 patch: no 
+bug: 16 patch: no 
+bug: 17 patch: no 
+bug: 18 patch: no 
+bug: 19 patch: no 
+bug: 20 patch: no 
+bug: 21 patch: yes time 40s
+bug: 22 patch: no 
+bug: 23 patch: no 
+bug: 24 patch: no 
+bug: 25 patch: yes time 30s
+bug: 26 patch: no 
+-----------------------------------
+Project: Math
+bug: 1 patch: no 
+bug: 2 patch: no 
+bug: 3 patch: no 
+bug: 4 patch: no 
+bug: 5 patch: no 
+bug: 6 patch: no 
+bug: 7 patch: no 
+bug: 8 patch: no 
+bug: 9 patch: no 
+bug: 10 patch: no 
+bug: 11 patch: no 
+bug: 12 patch: no 
+bug: 13 patch: no 
+bug: 14 patch: no 
+bug: 15 patch: no 
+bug: 16 patch: no 
+bug: 17 patch: no 
+bug: 18 patch: no 
+bug: 19 patch: no 
+bug: 20 patch: no 
+bug: 21 patch: no 
+bug: 22 patch: no 
+bug: 23 patch: no 
+bug: 24 patch: no 
+bug: 25 patch: no 
+bug: 26 patch: no 
+bug: 27 patch: no 
+bug: 28 patch: no 
+bug: 29 patch: no 
+bug: 30 patch: no 
+bug: 31 patch: no 
+bug: 32 patch: no 
+bug: 33 patch: no 
+bug: 34 patch: no 
+bug: 35 patch: no 
+bug: 36 patch: no 
+bug: 38 patch: no 
+bug: 40 patch: no 
+bug: 41 patch: no 
+bug: 42 patch: no 
+bug: 43 patch: no 
+bug: 45 patch: no 
+bug: 46 patch: no 
+bug: 47 patch: no 
+bug: 48 patch: no 
+bug: 49 patch: no 
+bug: 50 patch: no 
+bug: 51 patch: no 
+bug: 52 patch: no 
+bug: 53 patch: no 
+bug: 54 patch: no 
+bug: 55 patch: no 
+bug: 57 patch: no 
+bug: 58 patch: no 
+bug: 59 patch: no 
+bug: 60 patch: no 
+bug: 61 patch: no 
+bug: 62 patch: no 
+bug: 63 patch: no 
+bug: 64 patch: no 
+bug: 65 patch: no 
+bug: 66 patch: no 
+bug: 67 patch: no 
+bug: 68 patch: no 
+bug: 69 patch: yes time 37s
+bug: 70 patch: no 
+bug: 71 patch: no 
+bug: 72 patch: no 
+bug: 73 patch: no 
+bug: 74 patch: no 
+bug: 75 patch: no 
+bug: 76 patch: no 
+bug: 77 patch: no 
+bug: 78 patch: yes time 35s
+bug: 79 patch: no 
+bug: 80 patch: yes time 38s
+bug: 81 patch: yes time 32s
+bug: 82 patch: yes time 340s
+bug: 83 patch: no 
+bug: 84 patch: no 
+bug: 85 patch: yes time 29s
+bug: 87 patch: yes time 337s
+bug: 88 patch: yes time 19s
+bug: 89 patch: no 
+bug: 90 patch: no 
+bug: 91 patch: no 
+bug: 92 patch: no 
+bug: 93 patch: no 
+bug: 94 patch: no 
+bug: 95 patch: no 
+bug: 96 patch: no 
+bug: 97 patch: no 
+bug: 98 patch: no 
+bug: 99 patch: no 
+bug: 100 patch: no 
+bug: 101 patch: no 
+bug: 103 patch: no 
+bug: 104 patch: no 
+bug: 105 patch: yes time 425s
+-----------------------------------
+Project: Time
+bug: 1 patch: no 
+bug: 2 patch: no 
+bug: 3 patch: no 
+bug: 4 patch: no 
+bug: 5 patch: no 
+bug: 6 patch: no 
+bug: 7 patch: no 
+bug: 8 patch: no 
+bug: 9 patch: no 
+bug: 10 patch: no 
+bug: 11 patch: no 
+bug: 12 patch: no 
+bug: 13 patch: no 
+bug: 14 patch: no 
+bug: 15 patch: no 
+bug: 16 patch: no 
+bug: 17 patch: no 
+bug: 18 patch: no 
+bug: 19 patch: no 
+bug: 20 patch: no 
+bug: 21 patch: no 
+bug: 22 patch: no 
+bug: 23 patch: no 
+bug: 24 patch: no 
+bug: 27 patch: no 
+-----------------------------------
+Project: Lang
+bug: 1 patch: no 
+bug: 3 patch: no 
+bug: 4 patch: no 
+bug: 5 patch: no 
+bug: 6 patch: no 
+bug: 7 patch: no 
+bug: 8 patch: no 
+bug: 9 patch: no 
+bug: 10 patch: no 
+bug: 11 patch: no 
+bug: 12 patch: no 
+bug: 13 patch: no 
+bug: 14 patch: no 
+bug: 15 patch: no 
+bug: 16 patch: no 
+bug: 17 patch: no 
+bug: 18 patch: no 
+bug: 19 patch: no 
+bug: 20 patch: no 
+bug: 21 patch: no 
+bug: 22 patch: no 
+bug: 23 patch: no 
+bug: 24 patch: no 
+bug: 25 patch: no 
+bug: 26 patch: no 
+bug: 27 patch: no 
+bug: 28 patch: no 
+bug: 29 patch: no 
+bug: 30 patch: no 
+bug: 31 patch: no 
+bug: 32 patch: no 
+bug: 33 patch: no 
+bug: 34 patch: no 
+bug: 35 patch: no 
+bug: 36 patch: no 
+bug: 37 patch: no 
+bug: 38 patch: no 
+bug: 39 patch: yes time 379s
+bug: 40 patch: no 
+bug: 41 patch: no 
+bug: 42 patch: no 
+bug: 43 patch: no 
+bug: 44 patch: yes time 67s
+bug: 45 patch: no 
+bug: 46 patch: yes time 56s
+bug: 47 patch: no 
+bug: 48 patch: no 
+bug: 49 patch: no 
+bug: 50 patch: no 
+bug: 51 patch: no 
+bug: 52 patch: no 
+bug: 53 patch: yes time 126s
+bug: 54 patch: no 
+bug: 55 patch: no 
+bug: 56 patch: no 
+bug: 57 patch: no 
+bug: 58 patch: no 
+bug: 59 patch: no 
+bug: 60 patch: no 
+bug: 61 patch: no 
+bug: 62 patch: no 
+bug: 64 patch: no 
+bug: 65 patch: no 
+-----------------------------------

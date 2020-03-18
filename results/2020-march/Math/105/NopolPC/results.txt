@@ -1,0 +1,19 @@
+
+Nb classes : 139
+Nb methods : 978
+Nb statements: 4386
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 887
+Nb Statements Analyzed : 80
+Nb Statements with Angelic Value Found : 4
+Nb inputs in SMT : 10
+Nb SMT level: 3
+Nb SMT components: [7] [== of arity: 2, != of arity: 2, < of arity: 2, <= of arity: 2, ! of arity: 1, || of arity: 2, && of arity: 2]
+                  class java.lang.Boolean: 7
+Nb variables in SMT : 14
+Nb run failing test  : [2, 2, 2, 1, 1, 1, 2, 2, 1]
+Nb run passing test : [1, 1, 1, 13, 13, 13, 1, 1, 13]
+NoPol Execution time : 425248ms
+----PATCH FOUND----
+org.apache.commons.math.stat.regression.SimpleRegression:108: PRECONDITION !((1 < x) && (org.apache.commons.math.stat.regression.SimpleRegression.this.xbar <= y))

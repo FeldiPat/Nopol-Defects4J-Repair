@@ -1,0 +1,18 @@
+
+Nb classes : 555
+Nb methods : 5772
+Nb statements: 18639
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 3191
+Nb Statements Analyzed : 44
+Nb Statements with Angelic Value Found : 1
+Nb inputs in SMT : 3
+Nb SMT level: 1
+Nb SMT components: [0] []
+Nb variables in SMT : 67
+Nb run failing test  : [2, 2, 2, 2, 2, 2, 2, 2, 2]
+Nb run passing test : [64, 64, 64, 64, 64, 64, 64, 64, 108]
+NoPol Execution time : 33460ms
+----PATCH FOUND----
+org.jfree.chart.plot.CategoryPlot:2538: CONDITIONAL org.jfree.chart.plot.CategoryPlot.this.backgroundRangeMarkers!=null

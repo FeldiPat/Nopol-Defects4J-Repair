@@ -1,0 +1,15 @@
+
+Nb classes : 499
+Nb methods : 3184
+Nb statements: 19615
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 2400
+Nb Statements Analyzed : 23
+Nb Statements with Angelic Value Found : 0
+Nb inputs in SMT : 0
+Nb SMT level: 0
+Nb variables in SMT : 0
+Nb run failing test  : [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+Nb run passing test : [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+NoPol Execution time : 421612ms

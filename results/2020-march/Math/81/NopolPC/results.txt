@@ -1,0 +1,19 @@
+
+Nb classes : 393
+Nb methods : 2898
+Nb statements: 16627
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 2101
+Nb Statements Analyzed : 5
+Nb Statements with Angelic Value Found : 1
+Nb inputs in SMT : 15
+Nb SMT level: 2
+Nb SMT components: [4] [== of arity: 2, != of arity: 2, < of arity: 2, <= of arity: 2]
+                  class java.lang.Boolean: 4
+Nb variables in SMT : 54
+Nb run failing test  : [2, 2, 2, 2, 1]
+Nb run passing test : [1, 1, 1, 1, 7]
+NoPol Execution time : 31869ms
+----PATCH FOUND----
+org.apache.commons.math.linear.EigenDecompositionImpl:1544: PRECONDITION org.apache.commons.math.linear.EigenDecompositionImpl.this.lowerSpectra <= org.apache.commons.math.linear.EigenDecompositionImpl.this.sigmaLow

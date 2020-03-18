@@ -1,0 +1,19 @@
+
+Nb classes : 85
+Nb methods : 1887
+Nb statements: 9299
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 1879
+Nb Statements Analyzed : 5
+Nb Statements with Angelic Value Found : 1
+Nb inputs in SMT : 5
+Nb SMT level: 2
+Nb SMT components: [4] [== of arity: 2, != of arity: 2, < of arity: 2, <= of arity: 2]
+                  class java.lang.Boolean: 4
+Nb variables in SMT : 19
+Nb run failing test  : [2, 2, 2, 2, 1]
+Nb run passing test : [1, 1, 1, 1, 7]
+NoPol Execution time : 66802ms
+----PATCH FOUND----
+org.apache.commons.lang.NumberUtils:193: PRECONDITION 1 < val.length()

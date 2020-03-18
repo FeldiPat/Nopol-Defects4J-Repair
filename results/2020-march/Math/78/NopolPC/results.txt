@@ -1,0 +1,19 @@
+
+Nb classes : 393
+Nb methods : 2901
+Nb statements: 16705
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 2106
+Nb Statements Analyzed : 11
+Nb Statements with Angelic Value Found : 1
+Nb inputs in SMT : 293
+Nb SMT level: 2
+Nb SMT components: [4] [== of arity: 2, != of arity: 2, < of arity: 2, <= of arity: 2]
+                  class java.lang.Boolean: 4
+Nb variables in SMT : 17
+Nb run failing test  : [2, 2, 2, 2, 1]
+Nb run passing test : [1, 1, 1, 1, 15]
+NoPol Execution time : 34635ms
+----PATCH FOUND----
+org.apache.commons.math.analysis.solvers.BrentSolver:282: PRECONDITION -1 < delta

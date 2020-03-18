@@ -1,0 +1,20 @@
+
+Nb classes : 416
+Nb methods : 3017
+Nb statements: 16612
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 2186
+Nb Statements Analyzed : 15
+Nb Statements with Angelic Value Found : 1
+Nb inputs in SMT : 91
+Nb SMT level: 4
+Nb SMT components: [9] [== of arity: 2, != of arity: 2, < of arity: 2, <= of arity: 2, ! of arity: 1, || of arity: 2, && of arity: 2, + of arity: 2, - of arity: 2]
+                  class java.lang.Number: 2
+                  class java.lang.Boolean: 7
+Nb variables in SMT : 10
+Nb run failing test  : [2, 2, 2, 2, 2, 2, 2]
+Nb run passing test : [4, 4, 4, 4, 4, 4, 19]
+NoPol Execution time : 37037ms
+----PATCH FOUND----
+org.apache.commons.math.stat.correlation.PearsonsCorrelation:193: PRECONDITION (!(-1 <= 1 - nVars)) && ((!(-1 <= 1 - nVars)) || (org.apache.commons.math.stat.correlation.PearsonsCorrelation.this.correlationMatrix!=null))

@@ -1,0 +1,15 @@
+
+Nb classes : 156
+Nb methods : 2828
+Nb statements: 10104
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 11463
+Nb Statements Analyzed : 166
+Nb Statements with Angelic Value Found : 0
+Nb inputs in SMT : 0
+Nb SMT level: 0
+Nb variables in SMT : 0
+Nb run failing test  : [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+Nb run passing test : [34, 34, 34, 40, 40, 40, 40, 40, 40, 34, 34, 34, 34, 22, 22, 22, 22, 22, 22, 22, 22, 22, 34, 34, 22, 64, 64, 64, 64, 64, 64, 64, 64, 61, 61, 61, 61, 61, 61, 61, 58, 61, 61, 61, 61, 61, 61, 28, 28, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 61, 61, 127, 127, 127, 127, 127, 34, 34, 34, 121, 121, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 22, 22]
+NoPol Execution time : 313197ms

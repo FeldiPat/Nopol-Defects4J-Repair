@@ -1,0 +1,19 @@
+
+Nb classes : 388
+Nb methods : 2885
+Nb statements: 16253
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 2056
+Nb Statements Analyzed : 60
+Nb Statements with Angelic Value Found : 2
+Nb inputs in SMT : 2
+Nb SMT level: 2
+Nb SMT components: [4] [== of arity: 2, != of arity: 2, < of arity: 2, <= of arity: 2]
+                  class java.lang.Boolean: 4
+Nb variables in SMT : 9
+Nb run failing test  : [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 1]
+Nb run passing test : [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 18, 1, 1, 1, 1, 18]
+NoPol Execution time : 339776ms
+----PATCH FOUND----
+org.apache.commons.math.optimization.linear.SimplexSolver:63: PRECONDITION -1 == minValue

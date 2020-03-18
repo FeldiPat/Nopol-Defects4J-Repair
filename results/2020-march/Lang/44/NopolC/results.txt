@@ -1,0 +1,18 @@
+
+Nb classes : 85
+Nb methods : 1887
+Nb statements: 9299
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 1879
+Nb Statements Analyzed : 5
+Nb Statements with Angelic Value Found : 1
+Nb inputs in SMT : 4
+Nb SMT level: 1
+Nb SMT components: [0] []
+Nb variables in SMT : 19
+Nb run failing test  : [2, 2, 0]
+Nb run passing test : [1, 1, 8]
+NoPol Execution time : 24472ms
+----PATCH FOUND----
+org.apache.commons.lang.NumberUtils:193: CONDITIONAL ((dec == null) && (exp == null))

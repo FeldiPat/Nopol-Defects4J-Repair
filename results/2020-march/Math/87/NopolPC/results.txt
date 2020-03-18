@@ -1,0 +1,19 @@
+
+Nb classes : 362
+Nb methods : 2695
+Nb statements: 15006
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 1893
+Nb Statements Analyzed : 28
+Nb Statements with Angelic Value Found : 2
+Nb inputs in SMT : 18
+Nb SMT level: 2
+Nb SMT components: [4] [== of arity: 2, != of arity: 2, < of arity: 2, <= of arity: 2]
+                  class java.lang.Boolean: 4
+Nb variables in SMT : 28
+Nb run failing test  : [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1]
+Nb run passing test : [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 16, 16, 16]
+NoPol Execution time : 337391ms
+----PATCH FOUND----
+org.apache.commons.math.optimization.linear.SimplexTableau:161: PRECONDITION (1) != (org.apache.commons.math.optimization.linear.SimplexTableau.this.numSlackVariables)

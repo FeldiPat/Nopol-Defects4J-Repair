@@ -1,0 +1,19 @@
+
+Nb classes : 399
+Nb methods : 2923
+Nb statements: 15965
+Nb statement executed by the passing tests of the patched line: 0
+Nb statement executed by the failing tests of the patched line: 0
+Nb unit tests : 2140
+Nb Statements Analyzed : 17
+Nb Statements with Angelic Value Found : 1
+Nb inputs in SMT : 20
+Nb SMT level: 3
+Nb SMT components: [7] [== of arity: 2, != of arity: 2, < of arity: 2, <= of arity: 2, ! of arity: 1, || of arity: 2, && of arity: 2]
+                  class java.lang.Boolean: 7
+Nb variables in SMT : 13
+Nb run failing test  : [2, 2, 2, 2, 2, 2, 2, 1]
+Nb run passing test : [1, 1, 1, 1, 1, 1, 1, 9]
+NoPol Execution time : 22412ms
+----PATCH FOUND----
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl:225: CONDITIONAL (initial <= lower) || ((org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl.this.result < org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl.this.defaultFunctionValueAccuracy) && (!((1) != (lower))))
