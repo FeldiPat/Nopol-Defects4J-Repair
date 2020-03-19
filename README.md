@@ -10,10 +10,10 @@ The experiment is an adaption of the analysis done by Matias Martinez, Thomas Du
 3. Export Defects4J into your PATH: ```PATH=$PATH:~/<defects4j_path>/framework/bin```
 4. Checkout all bugs
 ```bash
-for bug in $(seq 1 26); do defects4j checkout -p Chart -v ${bug}b -w ~/projects/chart/chart_${bug}; done
-for bug in $(seq 1 65); do defects4j checkout -p Lang -v ${bug}b -w ~/projects/lang/lang_${bug}; done
-for bug in $(seq 1 106); do defects4j checkout -p Math -v ${bug}b -w ~/projects/math/math_${bug}; done
-for bug in $(seq 1 27); do defects4j checkout -p Time -v ${bug}b -w ~/projects/time/time_${bug}; done
+for bug in $(seq 1 26); do defects4j checkout -p Chart -v ${bug}b -w libs/projects/chart/chart_${bug}; done
+for bug in $(seq 1 65); do defects4j checkout -p Lang -v ${bug}b -w libs/projects/lang/lang_${bug}; done
+for bug in $(seq 1 106); do defects4j checkout -p Math -v ${bug}b -w libs/projects/math/math_${bug}; done
+for bug in $(seq 1 27); do defects4j checkout -p Time -v ${bug}b -w libs/projects/time/time_${bug}; done
 ```
 5. Edit the Defects4J-repair config: ```src/python/core/Config.py```
 6. Run ```src/python/repair.py```
