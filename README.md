@@ -1,5 +1,5 @@
 # Nopol-Defects4J-Repair
-This repository contains the source code and the experimental results of the repair of ([Nopol](https://github.com/SpoonLabs/nopol)) on a subset of the Defects4J dataset. The subset consists of four open-source projects: Apache Commons Math 1 (106 bugs), Apache Commons Lang 2 (65 bugs), Jfreechart 3 (26 bugs) and Joda-time 4 (27 bugs). 
+This repository contains the source code and the experimental results of the repair of [Nopol](https://github.com/SpoonLabs/nopol) on a subset of the Defects4J dataset. The subset consists of four open-source projects: Apache Commons Math 1 (106 bugs), Apache Commons Lang 2 (65 bugs), Jfreechart 3 (26 bugs) and Joda-time 4 (27 bugs). 
 
 The experiment is an adaption of the analysis done by Matias Martinez, Thomas Durieux, Romain Sommerard, Jifeng Xuan and Martin Monperrus ([Automatic Repair of Real Bugs in Java: A Large-Scale Experiment on the Defects4J Dataset](https://hal.archives-ouvertes.fr/hal-01387556/document")). 
 
